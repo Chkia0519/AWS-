@@ -30,9 +30,9 @@
 ## 3. 承第二題，在兩個 subnet 上分別創建一台 ec2，並且使用 ssh 從自己的 laptop 連上此兩台 ec2，提供你的做法。
 <dir>
   <p> public route </p>
-  <img src="image/pbr.png" width="50%">
+  <img src="" width="50%">
   <p> private route </p>
-  <img src="image/prr.png" width="50%">
+  <img src="" width="50%">
 </dir>
 
 ## 4. 在 public ec2 上安裝 nginx，並且使用瀏覽器輸入 public ip，取得 nginx 的網頁頁面後截圖。
