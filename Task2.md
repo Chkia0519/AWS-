@@ -82,6 +82,6 @@
 <dir>
   <p> 先去 Private Route 將 NAT Gateway 解綁 </p>
   <p> Nat Gateway -> Actions -> 刪除 </p>
-  <p> Elastic IP -> Actions -> 刪除 </p>
+  <p> Elastic IP -> Actions -> 刪除 (可能會沒辦法馬上刪，要等 Nat Gateway 完全關閉才可以刪) </p>
 </dir>
 
