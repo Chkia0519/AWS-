@@ -1,8 +1,8 @@
 # 【問答題】
 ## Q1: root user 跟 iam user 的差別？  
 A1:  
-root user -> 擁有帳號所有資源及最高權限，不屬於IAM服務  
-iam user -> 由root user創造之個別用戶，屬於IAM服務
+root user -> 擁有帳號所有資源及最高權限
+iam user -> 由root user創造之個別用戶
 
 ## Q2: user, group, role, policy 彼此間的關係為何？policy 的格式為何？  
 A2:  
